@@ -1,5 +1,12 @@
 # First-Resume
-This is my first resume developed by me and the name of this is "first-Resume".
+This is my first resume developed by me and the name of this is "First-Resume".
+
+
+
+
+
+
+
 HTML CODE OF THIS PORTFOLIO
 <!DOCTYPE html>
 <html lang="en">
